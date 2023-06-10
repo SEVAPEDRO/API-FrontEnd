@@ -1,0 +1,14 @@
+
+/* *{
+    border-color: 10px solid black;
+} */
+.main-footer{
+    color: rgb(15, 11, 11);
+    /* background-color: black; */
+    padding-top: 3em;
+
+    position: left;
+    bottom:0;
+    width:100%
+}
+
